@@ -14,7 +14,7 @@ public class funcloops {
 
         // While loop
         int i = 20;
-        while(i < 10) {
+        while(i > 10) {
             System.out.println("Not less than 10");
             i -= 5;
         }
